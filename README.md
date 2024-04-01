@@ -27,7 +27,7 @@ Tools: You can use ASP.NET Core with Visual Studio or tools such as Swagger to c
 
 - Suitable for communication between different applications.
 
-![API](https://github.com/Brayan17king/PushUpStarbucks./blob/main/img/capture.png)
+![API](https://github.com/Brayan17king/WebApplication2/blob/master/WebApplication2/img/api.PNG)
 
 ## Connection to SQL database with Azure:
 

@@ -33,6 +33,8 @@ Tools: You can use ASP.NET Core with Visual Studio or tools such as Swagger to c
 
 Azure SQL Database: Fully managed SQL database in the cloud.
 
+![API](https://github.com/Brayan17king/WebApplication2/blob/master/WebApplication2/img/db.png)
+
 ## Configuration:
 
 - Create a database in Azure Portal.
@@ -44,6 +46,8 @@ Azure SQL Database: Fully managed SQL database in the cloud.
 ## Link with Blazor Server:
 
 Blazor Server is a web framework that allows you to create interactive web applications using C#.
+
+![API](https://github.com/Brayan17king/WebApplication2/blob/master/WebApplication2/img/bs.png)
 
 ## Integration:
 
